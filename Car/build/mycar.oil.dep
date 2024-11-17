@@ -1,0 +1,11 @@
+mycar.oil: \
+ /trampoline/goil/templates/config/config.oil \
+ /trampoline/goil/templates/config/kernel.oil \
+ /trampoline/goil/templates/config/api.oil \
+ /trampoline/goil/templates/config/api_ioc.oil \
+ /trampoline/goil/templates/config/posix/config.oil \
+ /trampoline/goil/templates/config/posix/linux/config.oil \
+ /trampoline/goil/templates/config/config4.0.oil \
+ /trampoline/goil/templates/config/config3.1.oil \
+ /trampoline/goil/templates/config/autosar_common.oil \
+ /trampoline/goil/templates/config/autosar_multicore.oil
